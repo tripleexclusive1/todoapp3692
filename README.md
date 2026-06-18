@@ -40,8 +40,8 @@ Tabulka `tasks`:
 ### 1. Naklonuj repozitář a nainstaluj závislosti
 
 ```bash
-git clone https://github.com/tripleexclusive1/todoapp3691.git
-cd todoapp3691
+git clone https://github.com/tripleexclusive1/todoapp3692.git
+cd todoapp3692
 npm install
 ```
 
